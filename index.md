@@ -8,6 +8,7 @@ weight: 1
 permalink: /
 ---
 
+<div class="bg"></div>
 <div class="jumbotron">
   <h1>EarthEnv</h1>
   <p>
